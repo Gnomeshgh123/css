@@ -1,0 +1,31 @@
+.style_red {
+	color: red;
+}
+
+.style_blue {
+	color: blue;
+}
+
+.style_green {
+	color: green;
+}
+
+.style_black{
+	color: black;
+}
+.contain{
+	width:40%; 
+	height:150px; 
+	border:1px solid rgb(24, 15, 12);
+	margin: auto; 
+	padding: 10px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.default{
+	margin: 0;
+}
+
+.center{
+	text-align: center;
+}
